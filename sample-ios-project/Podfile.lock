@@ -1,16 +1,16 @@
 PODS:
-  - Analytics (3.8.1)
+  - Analytics (4.0.4)
 
 DEPENDENCIES:
-  - Analytics (= 3.8.1)
+  - Analytics (= 4.0.4)
 
 SPEC REPOS:
   trunk:
     - Analytics
 
 SPEC CHECKSUMS:
-  Analytics: 45b1faec509367a99c7b788cc5389180c43fe3fc
+  Analytics: 231b01fdaa9704105881dc82def7b7b1d6571edb
 
-PODFILE CHECKSUM: 4067cde98404a5286fbc95607caf167d86eb36a5
+PODFILE CHECKSUM: 6b2be09e64c1ce45043cf271d3d4249c1f6e49e5
 
 COCOAPODS: 1.9.1
