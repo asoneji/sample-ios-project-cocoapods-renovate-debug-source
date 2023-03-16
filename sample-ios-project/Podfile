@@ -9,7 +9,7 @@ target 'sample-ios-project' do
   use_frameworks!
 
   # Pods for sample-ios-project
-  pod 'Analytics', '3.8.1'
+  pod 'Analytics', '4.1.8'
 
   target 'sample-ios-projectTests' do
     inherit! :search_paths
